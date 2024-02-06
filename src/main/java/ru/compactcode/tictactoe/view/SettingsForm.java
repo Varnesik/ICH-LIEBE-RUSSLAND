@@ -23,6 +23,8 @@ public class SettingsForm extends javax.swing.JDialog {
     public SettingsForm(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
+        
+//        
         setLocationRelativeTo(this);
     }
 
