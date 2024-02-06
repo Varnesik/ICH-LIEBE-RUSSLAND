@@ -208,7 +208,7 @@ public class SettingsForm extends javax.swing.JDialog {
 //        JDirectoryChooser dir = JDirectoryChooser();
         dir.showOpenDialog(this);
         dir.setFileSelectionMode( JFileChooser.FILES_AND_DIRECTORIES );
-        jTextField1.setText(file);
+//        jTextField1.setText();
 
 
     }//GEN-LAST:event_jButton3ActionPerformed
